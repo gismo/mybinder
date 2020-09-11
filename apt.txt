@@ -1,5 +1,5 @@
-blas-dev
-lapack-dev
+libblas-dev
+liblapack-dev
 cmake
 g++
 git
