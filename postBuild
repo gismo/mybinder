@@ -11,5 +11,5 @@ git submodule update --init --recursive
 # Build libraries
 mkdir build
 cd build
-cmake -DGISMO_BUILD_EXAMPLES=OFF -DCMAKE_BUILD_TYPE=Debug ..
+cmake -DGISMO_BUILD_EXAMPLES=OFF ..
 make gismo
