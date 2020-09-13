@@ -15,7 +15,7 @@
 
 // Set include paths for G+Smo
 #pragma cling add_include_path("/home/jovyan/gismo/src")
-#pragma cling add_include_path("/home/jovyan/gismo/build/gsCore")
+#pragma cling add_include_path("/home/jovyan/gismo/build")
 
 // Set library paths for G+Smo
 #pragma cling add_library_path("/home/jovyan/gismo/build/lib")
